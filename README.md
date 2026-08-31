@@ -43,7 +43,7 @@ Missing or unknown values were retained where appropriate to avoid unnecessarily
 
 The Tableau dashboard provides an interactive overview of shark attack patterns.
 
-![Shark Attacks Dashboard](Screenshots/dashboard.png)
+Screenshot/dashboard.png
 
 ### Dashboard Components
 

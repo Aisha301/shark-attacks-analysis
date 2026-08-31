@@ -79,6 +79,14 @@ The dashboard highlights several patterns:
 ```text
 shark-attacks-analysis/
 │
-├── GSAF5.xls
-├── GSAF_Cleaned (1).xlsx
+├── data/
+│   ├── GSAF5.xls
+│   └── GSAF_Cleaned.xlsx
+│
+├── tableau/
+│   └── Shark_Attack_Analysis.twbx
+│
+├── screenshots/
+│   └── dashboard.png
+│
 └── README.md

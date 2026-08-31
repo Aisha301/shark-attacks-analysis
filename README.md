@@ -43,7 +43,7 @@ Missing or unknown values were retained where appropriate to avoid unnecessarily
 
 The Tableau dashboard provides an interactive overview of shark attack patterns.
 
-https://github.com/Aisha301/shark-attacks-analysis/blob/3e8e4a9dec79b432f30fe3cb23c9dfea9ef4765f/Screenshot/dashboard.png
+![Shark Attacks Dashboard](screenshots/dashboard.png)
 
 ### Dashboard Components
 
@@ -56,6 +56,10 @@ https://github.com/Aisha301/shark-attacks-analysis/blob/3e8e4a9dec79b432f30fe3cb
 - **Recorded Incidents by Destination** – Comparison of major destinations.
 - **Fatality Rate by Activity** – Comparison of fatality rates across activities.
 - **Incident Severity by Activity** – Fatal, non-fatal and no-injury outcomes by activity.
+
+  ## Interactive Tableau Dashboard
+
+  https://public.tableau.com/views/Shark_Attack_Analysis_17881800166610/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ## Key Findings
 
